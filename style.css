@@ -29,8 +29,11 @@ h4 {
   font-weight: 300;
 }
 
-img {
+
+img  {
   display: block;
+  width: 100%;
+  height: auto;
 }
 
 @media (min-width: 960px) {
